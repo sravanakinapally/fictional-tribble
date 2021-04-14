@@ -9,6 +9,7 @@ metadata:
   criticality: vital
   annotations:
     backstage.io/kubernetes-id: fictional-tribble
+    lighthouse.com/website-url: 'https://developer.aa.com/'
 spec: 
   lifecycle: experimental
   owner: "Fidel Coria"
