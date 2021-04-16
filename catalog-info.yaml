@@ -9,7 +9,7 @@ metadata:
   criticality: vital
   annotations:
     backstage.io/kubernetes-id: lighthouse-test
-    lighthouse.com/website-url: 'https://www.spotify.com/'
+    lighthouse.com/website-url: https://www.spotify.com/
 spec: 
   lifecycle: experimental
   owner: "Sravan Akinapally"
