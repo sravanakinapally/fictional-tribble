@@ -10,6 +10,7 @@ metadata:
   annotations:
     backstage.io/kubernetes-id: lighthouse-test
     lighthouse.com/website-url: https://developer.aa.com
+    github.com/project-slug: 'sravanakinapally/fictional-tribble'
 spec: 
   lifecycle: experimental
   owner: "Sravan Akinapally"
