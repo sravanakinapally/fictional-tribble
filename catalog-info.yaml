@@ -4,7 +4,7 @@ kind: Component
 metadata:
   name: lighthouse-test
   subscribe: Apigee
-  archerID: 1234
+  archerID: 
   domain: 
   criticality: vital
   annotations:
